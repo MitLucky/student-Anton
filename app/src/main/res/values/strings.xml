@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">homeWork_1.0</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="switch1">Switch</string>
+    <string name="name">FIO</string>
+    <string name="text">Text</string>
+    <string name="personname">PersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="password">Password</string>
+    <string name="emailaddress">EmailAddress</string>
+    <string name="hello_vladimir_morozov">Hello Vladimir Morozov!</string>
+</resources>
